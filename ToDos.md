@@ -19,10 +19,27 @@ Heap Spill
 
 
 Dodgeball
-### To Do's
+### To Do's:
 * [ ] add background music
 * [ ] add "Game Over Screen"
   * This will give user time to stop pressing keys before home screen
 * [ ] add items for additional points.
   * Items may temporarily affect board attributes.
 * [ ] Pause/Quit functionality
+
+
+Chess: The Game
+### To Do's:
+* [ ] Put Online
+* [ ] Castling
+* [ ] AI
+* [ ] Fancy Pawn take thing
+* [ ] Pawn Exchange
+
+
+Linked In
+### To Do's:
+* [ ] Touch up spelling
+* [ ] Update projects
+* [ ] Edit GMB info
+* [ ] Grow endorsements

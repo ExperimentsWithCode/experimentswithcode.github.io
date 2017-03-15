@@ -2,8 +2,7 @@ Heap Spill
 
 ### To-Do:
 * [ ] Search (pg_search)
-* [ ] Auto Login Guest
-* [/] Sort (https://www.npmjs.com/package/react-fuzzy)
+* [ ] Sort Answers
 * [ ] AutoSuggest Question on Ask Question
 * [ ] Update Create form to also edit Answers
 * [ ] Update Votes to work on questions too
@@ -11,11 +10,17 @@ Heap Spill
 * [ ] Pagination
 * [ ] Profiles
 * [ ] Notifications
+* [X] Auto Login Guest
+* [X] Sort Questions
 * [X] Favicon
 * [X] Logo
 * [X] Update Create form to also edit Questions
 * [X] Display answer without refresh
 * [X] Render Answer Errors on Submit
+* [X] Prevent Default on Vote so it doesn't get confused
+* [X] Temp remove non working main question display sorts
+* [X] Change repo name
+* [X] Get custom domain working
 
 
 Dodgeball
@@ -26,6 +31,9 @@ Dodgeball
 * [ ] add items for additional points.
   * Items may temporarily affect board attributes.
 * [ ] Pause/Quit functionality
+* [X] Change repo name to the name of the game.
+* [X] Removed To Dos
+* [X] Add live link to github
 
 
 Chess: The Game

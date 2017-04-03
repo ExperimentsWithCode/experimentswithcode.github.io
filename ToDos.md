@@ -1,11 +1,11 @@
 Heap Spill
 
 ### To-Do:
-* [ ] Search (pg_search)
-* [ ] Sort Answers
+* [ ] Track Views
+* [ ] Select Answer
+* [ ] Better fuzzy sort
 * [ ] AutoSuggest Question on Ask Question
 * [ ] Update Create form to also edit Answers
-* [ ] Update Votes to work on questions too
 * [ ] Tags
 * [ ] Pagination
 * [ ] Profiles
@@ -21,6 +21,13 @@ Heap Spill
 * [X] Temp remove non working main question display sorts
 * [X] Change repo name
 * [X] Get custom domain working
+* [X] Search (pg_search)
+* [X] Sort Answers
+* [X] Added Bulletin
+* [X] Update Votes to work on questions too
+* [X] Prevent squishing into screen border on shrunk screen
+
+
 
 
 Dodgeball
@@ -34,6 +41,8 @@ Dodgeball
 * [X] Change repo name to the name of the game.
 * [X] Removed To Dos
 * [X] Add live link to github
+* [X] Removed .DS_Store from github
+* [X] Disabled buttons first second after game over
 
 
 Chess: The Game
